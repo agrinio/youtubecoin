@@ -1,0 +1,4 @@
+youtubecoin
+===========
+
+Cryptocurrency coin
